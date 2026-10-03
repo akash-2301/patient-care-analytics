@@ -1,0 +1,31 @@
+doctor_id,first_name,last_name,specialization,years_experience,phone,consultation_fee
+1,Aarav,Verma,General Medicine,9,8190185314,1200
+2,Arjun,Das,Dermatology,16,8261522670,500
+3,Rahul,Pandey,Gynecology,5,8261367624,1500
+4,Amit,Das,General Medicine,21,8568155041,2000
+5,Arjun,Joshi,ENT,23,8791038106,1200
+6,Sanjay,Tiwari,Dermatology,30,8944923313,2000
+7,Karan,Pandey,ENT,30,8178357079,1500
+8,Amit,Gupta,Cardiology,6,8522488918,1200
+9,Sanjay,Sharma,Neurology,6,8426738473,1000
+10,Aarav,Pandey,General Medicine,21,8887374943,2000
+11,Sanjay,Reddy,Neurology,19,8494827421,1000
+12,Rahul,Gupta,Cardiology,27,8345078424,500
+13,Rohan,Das,Gynecology,2,8572508139,2000
+14,Ravi,Joshi,Neurology,25,8578635337,1000
+15,Aditya,Joshi,Dermatology,6,8597224179,800
+16,Vihaan,Das,Cardiology,18,8281086216,2000
+17,Vikram,Gupta,Gynecology,16,8732176976,500
+18,Amit,Rao,Orthopedics,30,8729337604,1000
+19,Aditya,Pandey,Gynecology,11,8683866610,1200
+20,Rohan,Patel,Neurology,25,8251376129,500
+21,Aditya,Singh,Pediatrics,21,8794460735,1200
+22,Aditya,Mishra,Dermatology,10,8927445191,1000
+23,Ravi,Rao,Pediatrics,20,8693508856,1500
+24,Suresh,Rao,Neurology,30,8973632983,2000
+25,Arjun,Kumar,Neurology,8,8200588871,1500
+26,Ravi,Yadav,Cardiology,19,8058483798,1200
+27,Rajesh,Rao,Cardiology,23,8383803515,1500
+28,Rahul,Rao,Cardiology,11,8053976487,800
+29,Suresh,Sharma,Cardiology,21,8424514886,800
+30,Rahul,Kumar,Gynecology,11,8005132108,2000
