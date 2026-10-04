@@ -228,7 +228,7 @@ python eda_analysis.py
 
 ## 👤 Author
 
-**Akash Singh**
+**Akash Singh**\
 **NIT Rourkela**
 - GitHub: [@akash-2301](https://github.com/akash-2301)
 - LinkedIn: [Connect with me](https://www.linkedin.com/in/akash-singh-73a89736b)
