@@ -1,13 +1,5 @@
 # 🏥 Patient Care Analytics — End-to-End Healthcare Data Analysis
 
-> A complete **SQL + Python + Streamlit** data analytics project built to demonstrate real-world healthcare business intelligence — from raw data to interactive dashboards.
-
-![SQL](https://img.shields.io/badge/SQL-MySQL-blue?logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.10+-green?logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Dashboard-Streamlit-red?logo=streamlit&logoColor=white)
-![Power BI](https://img.shields.io/badge/Reporting-Power%20BI-yellow?logo=powerbi&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-
 ---
 
 ## 📌 Project Overview
@@ -237,8 +229,9 @@ python eda_analysis.py
 ## 👤 Author
 
 **Akash Singh**
+**NIT Rourkela**
 - GitHub: [@akash-2301](https://github.com/akash-2301)
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/akash-singh-73a89736b)
 
 ---
 
